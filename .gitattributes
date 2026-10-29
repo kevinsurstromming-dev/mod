@@ -1,0 +1,2 @@
+*.fbmod filter=lfs diff=lfs merge=lfs -text
+*.archive filter=lfs diff=lfs merge=lfs -text
